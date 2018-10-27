@@ -21,6 +21,9 @@
 - [ ] Conditional statements
 - [ ] Functions
 - [ ] Array Basics
+- [ ] Switch-Case
+- [ ] Data Types
+
 
 
 ##### This README is written in [markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
