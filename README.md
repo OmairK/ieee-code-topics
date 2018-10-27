@@ -2,7 +2,12 @@
 > List of topics covered in the IEEE-Code workshop.
 
 ## Git
-
+- [ ] Init
+- [ ] Add
+- [ ] Commit
+- [ ] Status
+- [ ] Log
+ 
 
 ## Github
 - [ ] Clone
