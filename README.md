@@ -21,7 +21,6 @@
 - [ ] Conditional statements
 - [ ] Functions
 - [ ] Array Basics
-- 
 
 
 ##### This README is written in [markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
