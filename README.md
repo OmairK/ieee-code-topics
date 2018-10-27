@@ -2,7 +2,12 @@
 > List of topics covered in the IEEE-Code workshop.
 
 ## Git
-
+- [ ] Init
+- [ ] Add
+- [ ] Commit
+- [ ] Status
+- [ ] Log
+ 
 
 ## Github
 - [ ] Clone
@@ -18,6 +23,7 @@
 - [ ] Array Basics
 - [ ] Switch-Case
 - [ ] Data Types
+
 
 
 ##### This README is written in [markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
